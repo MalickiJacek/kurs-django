@@ -1,0 +1,36 @@
+1. Opowieść o sobie: Napisz program, który wyświetli na ekranie 3-4 zdania o Tobie (Twoje
+imię, hobby, cel nauki Pythona). Każde zdanie powinno być wyświetlone osobnym
+poleceniem print() .
+2. Interaktywny dialog: Napisz program, który zapyta użytkownika o jego imię, wiek i miasto
+zamieszkania. Następnie wyświetl podsumowanie w jednej linijce, np.: "A więc, masz на
+imię [Imię], masz [Wiek] lat i mieszkasz w mieście [Miasto]."
+3. Prosty kalkulator obwodu: Napisz program, który poprosi użytkownika o długość i
+szerokość prostokąta, a następnie obliczy i wyświetli jego obwód (P = 2 * (długość +
+szerokość)).
+4. Kody znaków: Używając funkcji ord() , znajdź i wyświetl kody liczbowe ASCII dla
+pierwszej litery Twojego imienia (wielką i małą literą).
+5. Kreator postaci: Program prosi użytkownika o nazwę rasy ( "Elf" , "Krasnolud" itp.)
+oraz klasę ( "Wojownik" , "Mag" ). Następnie wyświetla: Stworzono postać: [Rasa]
+[Klasa].
+6. Wyrażenie logiczne: Napisz program, który pyta, czy użytkownik ma prawo jazdy
+( tak/nie ) i ile ma lat. Wyświetl True , jeśli użytkownik ma 18 lat lub więcej ORAZ ma
+prawo jazdy. W przeciwnym razie wyświetl False .
+7. Praktyka z venv :
+Utwórz folder project_test .
+Wewnątrz niego utwórz środowisko wirtualne venv .
+Aktywuj je.
+
+Wykonaj polecenie pip list , aby zobaczyć, że nie ma zainstalowanych bibliotek.
+Dezaktywuj środowisko.
+8. (Dla użytkowników VM) Nawigacja w Ubuntu:
+Otwórz terminal w swojej maszynie Ubuntu.
+Utwórz folder moj_pierwszy_projekt na pulpicie ( cd Desktop , a następnie mkdir
+moj_pierwszy_projekt ).
+Przejdź do tego folderu.
+Utwórz wewnątrz pusty plik main.py poleceniem touch main.py .
+Wyświetl zawartość folderu poleceniem ls .
+9. Zen w częściach: Wyświetl na ekranie tylko pierwsze dwie linijki z "Zenu Pythona".
+Wskazówka: musisz pobrać cały tekst i przetworzyć go jako ciąg znaków lub listę.
+10. Mini-projekt "Konwerter Temperatury": Napisz program, który poprosi użytkownika o
+temperaturę w stopniach Celsjusza, przekonwertuje ją na stopnie Fahrenheita według
+wzoru F = C * 9/5 + 32 i wyświetli wynik z wyjaśnieniem
